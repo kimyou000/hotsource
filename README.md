@@ -10,6 +10,14 @@ Find the Wrong Picture Project
 틀린 그림 찾기 프로젝트
 
 
+## Summary    
+ The similarity of each image is mainly measured **using the cv2 library** and other parts are extracted.   
+ 
+### Function_example       
+ - Cut_Image_Circle()   
+ - Diff_Image()   
+ - image_similarity()    
+
 ### Demo 
  - image
  - video
@@ -27,5 +35,11 @@ from PIL import ImageChops
 
 ### How to execute
 
+
+
+
+<hr>   
+
 ### Reference
-[link 1](https://bkshin.tistory.com/entry/OpenCV-9-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B0%EC%82%B0)
+[link 1](https://bkshin.tistory.com/entry/OpenCV-9-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B0%EC%82%B0)    
+[link 2](https://m.blog.naver.com/codinglab9807/222711897434)    
