@@ -4,7 +4,8 @@
 
 ##### ENG
 Find the Wrong Picture Project
-
+The Find the Wrong Picture project finds different parts of the two images.
+And it also has other additional functions.
 
 ##### KR
 틀린 그림 찾기 프로젝트
