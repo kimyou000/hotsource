@@ -9,6 +9,7 @@ And it also has other additional functions.
 
 ##### KR
 틀린 그림 찾기 프로젝트
+틀린 그림 찾기 프로젝트는 두개의 이미지의 다른 부분을 찾아주고 다른 부가적인 기능들도 가지고 있다.
 
 
 ## Summary    
