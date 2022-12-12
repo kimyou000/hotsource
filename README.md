@@ -18,7 +18,12 @@ And it also has other additional functions.
 ### Function_example       
  - Cut_Image_Circle()   
  - Diff_Image()   
- - image_similarity()    
+ - image_similarity() 
+ - calImage()
+ - extractImage()
+ - imagesize()
+ - red_dot()
+ - section()   
 
 ### Demo 
  - image
@@ -52,3 +57,4 @@ from PIL import ImageChops
 ### Reference
 [link 1](https://bkshin.tistory.com/entry/OpenCV-9-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%97%B0%EC%82%B0)    
 [link 2](https://m.blog.naver.com/codinglab9807/222711897434)    
+[link 3](https://nadocoding.tistory.com/97)
